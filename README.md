@@ -1,4 +1,4 @@
-#PrivacyGuard : Face detection and Face blur web app
+# PrivacyGuard : Face detection and Face blur web app
 
 Overview
 This project is a face detection web app utilizing the powerful Ultralytics YOLOv8 model for accurate face detection. It is designed with a user-friendly web interface, created using HTML and CSS, and is backed by a Flask API. A key feature of this app is the privacy-centric design, as it blurs detected faces using OpenCV, ensuring user privacy and data protection.
